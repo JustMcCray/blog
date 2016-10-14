@@ -36,7 +36,8 @@ a:visited {
 }
 body {
     color: #4f4f4f;
-    background-color: #686868;
+    background-color: red;
+/*    background-color: #686868;*/
     font-family: 'Avenir Next', 'Avenir', 'Helvetica', sans-serif;
     font-weight: 400;
 }
